@@ -12,3 +12,4 @@ Settings and view are located in the package web. We have only one view.In this 
 This form has two action with different params and has one field for file and two button . 
 Beside form we have table and one variable.The variable reporteds about correct/incorrect position of brackets.
 The table returns 10 most common words in text.
+If you want to run this project in another computer you need to change way in method load in the controller and in the service.
